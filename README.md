@@ -6,6 +6,8 @@ play an important role.
 
 I am proficient in tools like Excel, QGIS, ArcGIS, SPSS, R, and Python (e.g. NumPy, Pandas, Matplotlib, SciPy, TensorFlow) from my academic background. Furthermore, I am developing my knowledge with courses on LinkedIn (SQL, Tableau, Power BI, and AWS). I am eager to learn new things and pursue my career in data. 
 
+Here, I have attached a sample of the work I did through the university. With time, I will be adding projects which utilise my knowledge from courses. 
+
 <!---
 juliawad/juliawad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
